@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="reset.css">
+</head>
+
 body {
   font-size: 14px;
 }
@@ -34,4 +38,8 @@ h3 {
   height: 100px;
   margin: 10px;
   width: 100%;
+}
+
+.element new-color {
+   background-color: purple;
 }
