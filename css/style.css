@@ -39,7 +39,10 @@ h3 {
   margin: 10px;
   width: 100%;
 }
-
-.element new-color {
+/*newcolorchange*/
+.new-color {
    background-color: purple;
+   height: 100px;
+   margin: 10px;
+   width: 100%;
 }
